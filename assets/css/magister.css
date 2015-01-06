@@ -234,6 +234,14 @@ a:hover, a:active { color:#fff; text-decoration: underline; }
 	text-decoration: none;
 }
 
+.visible-bg {
+	background-color: rgba(255, 255, 255, .8);
+}
+
+.solid-bg {
+	background-color: rgba(255, 255, 255, 1);
+}
+
 /* .container { */
 /* 	background-color: rgba(34, 34, , .8); */
 /* } */

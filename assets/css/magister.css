@@ -239,8 +239,8 @@ a:hover, a:active { color:#fff; text-decoration: underline; }
 }
 
 /* more specificity */
-#nav-button {
-	background-color: rgba(255, 255, 255, 1);
+.solid-bg {
+	background-color: rgba(255, 255, 255, 1) !important;
 }
 
 /* .container { */

@@ -238,7 +238,8 @@ a:hover, a:active { color:#fff; text-decoration: underline; }
 	background-color: rgba(255, 255, 255, .8);
 }
 
-.solid-bg {
+/* more specificity */
+.navbar-toggle .solid-bg {
 	background-color: rgba(255, 255, 255, 1);
 }
 

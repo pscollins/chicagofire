@@ -234,9 +234,9 @@ a:hover, a:active { color:#fff; text-decoration: underline; }
 	text-decoration: none;
 }
 
-.container {
-	background-color: rgba(0, 0, 0, .8);
-}
+/* .container { */
+/* 	background-color: rgba(34, 34, , .8); */
+/* } */
 
 /* Social buttons in the footer */
 #social {

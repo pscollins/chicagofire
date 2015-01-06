@@ -239,7 +239,7 @@ a:hover, a:active { color:#fff; text-decoration: underline; }
 }
 
 /* more specificity */
-.theme-invert .navbar-toggle .solid-bg {
+#nav-button {
 	background-color: rgba(255, 255, 255, 1);
 }
 

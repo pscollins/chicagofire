@@ -375,3 +375,9 @@ a:hover, a:active { color:#fff; text-decoration: underline; }
 .thumbnail .caption {
 	color: inherit;
 }
+
+#bracket-img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
